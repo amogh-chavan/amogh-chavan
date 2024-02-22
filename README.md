@@ -6,5 +6,7 @@ Software Developer at [Speedyy](https://play.google.com/store/apps/details?id=co
 [LinkedIn](https://www.linkedin.com/in/amogh-chavan/)<br>
 [Medium](https://medium.com/@amogh-chavan)<br>
 [LeetCode](https://leetcode.com/amogh-chavan/)<br>
+[HackerRank](https://www.hackerrank.com/profile/amoghchavan)<br>
+[CodeChef](https://www.codechef.com/users/amoghchavan)<br>
 
 
